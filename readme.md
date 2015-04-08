@@ -1,2 +1,3 @@
-ron1415 Testovací repozitory
-druhı komit
+ron1415 TestovacÃ­ repozitory
+druhÃ½ komit
+zmeneno na githubu
